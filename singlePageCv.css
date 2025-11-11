@@ -1,0 +1,28 @@
+* {
+  background-color: lightblue;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+h1, h2 {
+  margin-top: 20px;
+  text-align: center;
+  color: blue;
+}
+
+div {
+  margin: 10px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+span {
+  color: gray;
+}
+
+img {
+	width: 25vw;
+	height: 25vw;
+}
